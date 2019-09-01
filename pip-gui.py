@@ -111,7 +111,7 @@ class Ui_MainWindow(object):
 
         def save_mirror():
             mirror_url = self.mirror.toPlainText()
-            cmd = "pip config set global.index-url %s" % mirror_url
+            cmd = "pip3 config set global.index-url %s" % mirror_url
             r = os.popen(cmd)
             info = r.readlines()
             for line in info:  # 按行遍历
