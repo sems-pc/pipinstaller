@@ -179,7 +179,7 @@ class Ui_MainWindow(object):
         self.label_3.setText(_translate("MainWindow", "Timeout"))
         self.savetimeout.setText(_translate("MainWindow", "Save"))
         self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab), _translate("MainWindow", "Timeout Settings"))
-        self.label_4.setText(_translate("MainWindow", "Pip Installer v1.0 by Chrithon"))
+        self.label_4.setText(_translate("MainWindow", "Pip Installer v1.0"))
         self.github.setText(_translate("MainWindow", "Github"))
         self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_3), _translate("MainWindow", "About"))
 
@@ -203,7 +203,7 @@ class Ui_MainWindow(object):
         self.label_3.setText(_translate("MainWindow", "Timeout"))
         self.savetimeout.setText(_translate("MainWindow", "Save"))
         self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab), _translate("MainWindow", "Timeout Settings"))
-        self.label_4.setText(_translate("MainWindow", "Pip Installer v1.0 by Chrithon"))
+        self.label_4.setText(_translate("MainWindow", "Pip Installer v1.0 "))
         self.github.setText(_translate("MainWindow", "Github"))
         self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_3), _translate("MainWindow", "About"))
 
