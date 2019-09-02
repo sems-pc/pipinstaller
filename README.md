@@ -1,4 +1,9 @@
 # pipinstaller
+
+访问量：![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FChrithon%2Fpipinstaller)
+
+视频总观看量（从2019年9月2日上午10:30开始计算）：![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav66314100)
+
 Pypi包下载器
 
 **介绍：
